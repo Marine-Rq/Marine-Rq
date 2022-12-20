@@ -1,6 +1,8 @@
 
-##### Hi 👋, I'm Marine:
+### Hi 👋, I'm Marine:
 
+------------------------------------------------------------------------------------------------------------------
+###  I'm Data Scientist 👩‍💻 
 
 - 👩‍💻 I'm Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods.
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
