@@ -1,10 +1,10 @@
-<p align="center"><img width=50% src="https://www.newtechdojo.com/wp-content/uploads/2018/08/Data-Science.png"></p>
 
 ##### Hi 👋, I'm Marine:
 
+
 - 👩‍💻 I'm Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods.
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+- :speech_balloon: Ask me about Analysis, ML, Exploratory data analysis !
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marine.alraqdi@gmail.com)
@@ -13,12 +13,14 @@
 
 ##### Languages @ Tools I use
 
-![jupyter]
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![pyspark](https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![mongodb](https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png)
-![tableau](https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresqlogoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 
 
