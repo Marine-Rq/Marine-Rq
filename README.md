@@ -13,7 +13,7 @@
 
 ##### Languages @ Tools I use
 
-![jupyter](https://www.pythonforfinance.net/wp-content/uploads/2019/07/Jupyter.jpg)
+![jupyter]
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![pyspark](https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
