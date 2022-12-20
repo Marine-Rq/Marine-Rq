@@ -5,7 +5,7 @@
 ###  I'm Data Scientist 👩‍💻 
 
 - 👩‍💻 I'm Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods.
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
+- 🌱 I'm addicted to learning and growing every day.
 - :speech_balloon: Ask me about Analysis, ML, Exploratory data analysis !
 - :mailbox: You can reach me with the links below
 
