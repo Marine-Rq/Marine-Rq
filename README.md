@@ -1,4 +1,4 @@
-[![Header](https://contentstatic.techgig.com/thumb/msid-76248534,width-460,resizemode-4/5-Data-Science-and-Analytics-jobs-for-freshers.jpg?75791)
+[![Header](https://www.newtechdojo.com/wp-content/uploads/2018/08/Data-Science.png)
 
 ##### Hi 👋, I'm Marine:
 
@@ -14,7 +14,7 @@
 ##### Languages @ Tools I use
 
 ![jupyter]
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![pyspark](https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![mongodb](https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png)
