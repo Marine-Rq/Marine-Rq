@@ -1,4 +1,4 @@
-[![Header](https://www.newtechdojo.com/wp-content/uploads/2018/08/Data-Science.png)
+<p align="center"><img width=50% src="https://www.newtechdojo.com/wp-content/uploads/2018/08/Data-Science.png"></p>
 
 ##### Hi 👋, I'm Marine:
 
